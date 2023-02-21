@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mastoropoulos-loukas&label=Profile%20views&color=0e75b6&style=flat" alt="mastoropoulos-loukas" /> </p>
 
-- 🌱 I’m currently learning **C#, Spring Security**
+- 🌱 I’m currently learning **ASP.NET Core Framework and Spring Security**
 
 - 📫 How to reach me **loukasmastoropoulos@gmail.com**
 
